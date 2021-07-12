@@ -3,9 +3,6 @@
 @import url("https://goose-nest.github.io/GT-RevertRebrand/src/main.css");
 @import url("https://nyri4.github.io/donators/donators.css");
 
-{
-  font-family: 'Google Sans', sans-serif !important; }
-
 :not([class="hljs"]):not(code){
 font-family: var(--Chat-Font-Used)!important;
 }
