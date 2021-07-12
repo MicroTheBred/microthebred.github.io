@@ -2,6 +2,17 @@
 @import url("https://monstrousdev.github.io/themes/addons/user-tags.css");
 @import url("https://goose-nest.github.io/GT-RevertRebrand/src/main.css");
 @import url("https://nyri4.github.io/donators/donators.css");
+
+{
+  font-family: 'Google Sans', sans-serif !important; }
+
+:not([class="hljs"]):not(code){
+font-family: var(--Chat-Font-Used)!important;
+}
+
+.markup:not(code) {
+font-size: var(--Chat-Font-Size)!important;
+}
 :root .buttons-cl5qTG {
   transition: opacity 150ms;
 }
